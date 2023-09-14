@@ -3,7 +3,10 @@ import './temasTS/01-tipo-bas.ts'
 import './temasTS/02-obj-interfaz-arre.ts'
 import './temasTS/03-funciones.ts'
 import './temasTS/04-desestructuracion-objetos-arre.ts'
-
+import './temasTS/05-desestructurar-funciones.ts'
+import './temasTS/06-Importar-exportar.ts'
+import './temasTS/07-clases.ts'
+import './temasTS/08-herencia.ts'
 
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
