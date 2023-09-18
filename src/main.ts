@@ -7,6 +7,7 @@ import './temasTS/05-desestructurar-funciones.ts'
 import './temasTS/06-Importar-exportar.ts'
 import './temasTS/07-clases.ts'
 import './temasTS/08-herencia.ts'
+import './temasTS/09-genericos.ts'
 
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
